@@ -1,7 +1,7 @@
 import java.time.LocalDateTime;
 import java.time.chrono.ChronoLocalDate;
 
-public class WeekTask extends Task{
+public class WeekTask extends Task {
 
     public WeekTask(String dateTime, String title, int description, LocalDateTime type) {
         super(dateTime, title, description, type);

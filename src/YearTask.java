@@ -1,7 +1,7 @@
 import java.time.LocalDateTime;
 import java.time.chrono.ChronoLocalDate;
 
-public class YearTask extends Task{
+public class YearTask extends Task {
 
 
     public YearTask(String dateTime, String title, int description, LocalDateTime type) {
